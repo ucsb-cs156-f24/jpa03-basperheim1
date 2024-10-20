@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: <https://basperheim1-jpa03.dokku-05.cs.ucsb.edu>
+Running at: <https://jpa03-basperheim1.dokku-05.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
 
